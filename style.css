@@ -183,67 +183,80 @@ table tr td img {
     font-size: 30px;
     padding-left: 20px;
     padding-right: 20px;
+    font-weight: lighter;
 }
 
 
 .p-padding{
     padding-left: 93px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-2{
     padding-left: 34px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-3{
     padding-left: 106px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-4{
     padding-left: 100px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-5{
     padding-left: 17px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-6{
     padding-left: 52px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-7{
     padding-left: 40px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-8{
     padding-left: 100px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-9{
     padding-left: 50px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-10{
     padding-left: 55px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-11{
     padding-left: 50px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 .p-padding-12{
     padding-left: 50px;
     font-size: 25px;
+    font-weight: lighter;
 }
 
 table tr td h6{
@@ -270,7 +283,17 @@ table tr td h6{
     margin-left: 420px;
 }
 
+h6{
+    font-weight: lighter;
+}
 
+h3{
+    font-weight: lighter;
+}
+
+p{
+    font-weight: lighter;
+}
 
 
 
